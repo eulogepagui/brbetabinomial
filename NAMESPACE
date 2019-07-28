@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+import(enrichwith)
+import(Formula)
+import(VGAM)
+importFrom("stats", ".getXlevels", "as.formula", "delete.response",
+             "make.link", "model.offset", "model.response",
+             "model.weights", "pnorm", "printCoefmat")

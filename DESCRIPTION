@@ -1,0 +1,10 @@
+Package: brbetabinomial
+Type: Package
+Title: Mean and median bias reduction in beta-binomial regression
+Version: 1.0
+Date: 2019-07-27
+Author: Euloge Clovis Kenne Pagui, Nicola Sartori and Alessandra Salvan 
+Maintainer: Euloge Clovis Kenne Pagui <kenne@stat.unipd.it>
+Description: Fit beta-binomial regression using the adjusted score functions to  median bias reduction (Kenne Pagui et al., 2017) and mean bias reduction (Firth, 1993). Both approaches are effective in solving the boundary estimate problem that may arise for maximum likelihood in beta-binomial regression. 
+Imports: Formula, VGAM, enrichwith 
+License: GPL-3
