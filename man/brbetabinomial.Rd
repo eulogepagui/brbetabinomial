@@ -50,7 +50,7 @@ type of estimator.
 maximum number of iterations needed for the fisher scoring optimization.
 }
   \item{slowit}{
-slow the step in the fisher scoring.
+a positive real taking values in (0,1] used as a multiplier for the stepsize. 
 }
 
 \item{epsilon}{
