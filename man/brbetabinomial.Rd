@@ -69,14 +69,14 @@ logical. If \code{TRUE} the model frame is returned.
 For \code{brbetabinomial}: logical value indicates whether the response vector used in the fitting process should be returned as component 
 of the returned value
 
-For \code{brbetabinomial.fit}: \code{y} is a vector of observations with
-length \code{n}.
+for \code{brbetabinomial.fit}: \code{y} is a vector of observations, representing the 
+number of successes.
 }
 \item{x}{
-For \code{brbetabinomial}: logical value indicates whether the model matrix used in the fitting process should be returned as component 
+for \code{brbetabinomial}: logical value indicates whether the model matrix used in the fitting process should be returned as component 
 of the returned value
 
-For \code{brbetabinomial.fit}: \code{x} is a design matrix.
+for \code{brbetabinomial.fit}: \code{x} is a design matrix for the mean model.
 }
 
 \item{z}{
