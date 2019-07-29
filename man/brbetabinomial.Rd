@@ -84,11 +84,11 @@ numeric matrix. Regressor matrix for the precision model, the default correspond
 }
 }
 \details{
-work in progress.
+to be filled.
 }
 
 \value{
-work in progress.
+to be filled.
 }
 
 \references{
@@ -108,11 +108,11 @@ reduction of maximum likelihood estimates. *Biometrika*, **104**,
  Alessandra Salvan[aut] \email{salvan@stat.unipd.it}
 }
 \note{
-work in progress.
+to be filled.
 }
 
 \seealso{
-work in progress.
+to be filled.
 }
 \examples{
 \dontrun{
