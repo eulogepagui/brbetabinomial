@@ -95,7 +95,7 @@ to be filled.
 Firth D. (1993). Bias reduction of maximum likelihood estimates,
 Biometrika, **80**, 27-38
 
-Kenne Pagui, E. C., A. Salvan, and N. Sartori (2019). Efficient implementation of median bias reduction.
+Kenne Pagui, E. C., A. Salvan, and N. Sartori (2019). Efficient implementation of median bias reduction (in preparation).
 
 Kenne Pagui, E. C., A. Salvan, and N. Sartori (2017). Median bias
 reduction of maximum likelihood estimates. *Biometrika*, **104**,
