@@ -22,4 +22,4 @@ Fit beta-binomial regression using the adjusted score functions to  median bias 
 
 ## Authors
 
-The mbrbetareg implementation has been written by Euloge Clovis Kenne Pagui (kenne@stat.unipd.it), Nicola Sartori (sartori@stat.unipd.it) and Alessandra Salvan (salvan@stat.unipd.it) from the University of Padova.
+The brbetabinomial implementation has been written by Euloge Clovis Kenne Pagui (kenne@stat.unipd.it), Nicola Sartori (sartori@stat.unipd.it) and Alessandra Salvan (salvan@stat.unipd.it) from the University of Padova.
